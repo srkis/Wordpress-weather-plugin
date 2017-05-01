@@ -12,4 +12,4 @@ HOW TO USE (the easiest way)
 7. Click on text widget, put the title, on the Content area in text widget paste this shortcode: [weather_widget] and click save.
 8. That's it, hope you will enjoy.  
 
-Youtube link for plugin instalation and presentation : 
+Youtube link for plugin instalation and presentation : https://youtu.be/XU2ZY2r_upA
